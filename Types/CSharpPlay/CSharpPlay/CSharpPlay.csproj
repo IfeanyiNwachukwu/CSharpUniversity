@@ -7,9 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\PatternMatchingLib\PatternMatchingLib.csproj" />
-    <ProjectReference Include="..\..\PeopleLibrary\PeopleLibrary\PeopleLibrary.csproj" />
-  </ItemGroup>
-
 </Project>
